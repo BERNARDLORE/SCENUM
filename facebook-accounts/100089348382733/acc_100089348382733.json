@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.01.2023 18:10 FARM 2 A 6 DIAS",
+	"lastEventDate": "13.01.2023 18:12 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100089348382733",
 	"name": "isabeslyss",
-	"amountFriends": "",
+	"amountFriends": "26",
 	"screenname": "Isabelly Esther Carvalho",
 	"birthdate": "1988 March 16",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705100348.725293,
+			"expirationDate": 1705168970.694718,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705100348.725324,
+			"expirationDate": 1705168970.694751,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AryUaOcRdCt9KOA%3A2%3A1673489673%3A-1%3A-1%3A%3AAcVzmIp_M2ppygg1is9WhtU96ue80CCy4xK1ea-Wzw"
+			"value": "30%3AryUaOcRdCt9KOA%3A2%3A1673489673%3A-1%3A-1%3A%3AAcVZiVqDxISSG6A0e4kkKgB_AR_lzRo3F_PWOFXemw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681340347.725338,
+			"expirationDate": 1681409437.052611,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FgrfUvDb1x2OaiO5.AWUjnHkbzBQdEZkDALTzt5WgMVI.BjwJC8.Rn.AAA.0.0.BjwJC8.AWVTRAZuehM"
+			"value": "0tmPLBSRKvP0iTeLG.AWUPdWZhBwz07yrTPbL9fQINWsE.BjwZzK.Rn.AAA.0.0.BjwZ6c.AWVrsSWWM2k"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674238352,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,20 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673564448930%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674169271,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673633528718%2C%22v%22%3A1%7D"
 		}
 	]
 }
