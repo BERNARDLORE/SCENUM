@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.01.2023 11:18 FARM 2 A 6 DIAS",
+	"lastEventDate": "14.01.2023 11:21 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100088919124391",
 	"name": "sofacunha",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705158157.206226,
+			"expirationDate": 1705231143.887096,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674227075,
+			"expirationDate": 1674300060,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705158157.206253,
+			"expirationDate": 1705231143.887138,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3ATwcFecz6QkKutw%3A2%3A1672976127%3A-1%3A8332%3A%3AAcWFSDMguHTtzXHFeGlDfIhn8G71Tuo9WchIsBmo9w"
+			"value": "43%3ATwcFecz6QkKutw%3A2%3A1672976127%3A-1%3A8332%3A%3AAcXRYFkw9PxLzDsva8CA6oDeDJc1i3QoH2-7MM4vug"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681398155.206268,
+			"expirationDate": 1681471142.887158,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xrHRN1c2K54EU1AZ.AWWj4IGi9E0fZnlVjmDBomtWppM.BjwXKN.AW.AAA.0.0.BjwXKN.AWXAWmGDQrc"
+			"value": "0EoxRGZgo9F4wQprK.AWVtbd7det4T3DhgARM9ZqnY4Tc.Bjwo-o.AW.AAA.0.0.Bjwo-o.AWXChjIL9Xo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673622252953%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673695237273%2C%22v%22%3A1%7D"
 		}
 	]
 }
