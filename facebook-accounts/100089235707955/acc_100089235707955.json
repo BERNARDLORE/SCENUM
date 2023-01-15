@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.01.2023 12:32 FARM 2 A 6 DIAS",
+	"lastEventDate": "15.01.2023 12:35 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100089235707955",
 	"name": "yasmingarra",
-	"amountFriends": "",
+	"amountFriends": "61",
 	"screenname": "Yasmin Giovana Brito",
 	"birthdate": "1988 August 20",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705181740.927118,
+			"expirationDate": 1705321979.409181,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674250656,
+			"expirationDate": 1674390928,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705181740.927176,
+			"expirationDate": 1705321979.409292,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "48%3A5u5hcKTXtVacMQ%3A2%3A1673492639%3A-1%3A-1%3A%3AAcUfDsY9k3BA3F3asocEakxVAXVuZWwG41GOFzoCgw"
+			"value": "48%3A5u5hcKTXtVacMQ%3A2%3A1673492639%3A-1%3A-1%3A%3AAcXRLHjOa2lOjCmqr_bZqKCAvzl3JE-X6UuZeF1uDQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681421739.927206,
+			"expirationDate": 1681561978.409352,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HKY1vti4y5fho43i.AWWQdbYH-2B7L5-mTxsaN124eok.Bjwc6r.gq.AAA.0.0.Bjwc6r.AWVcxGz0Klk"
+			"value": "0ia4dDGQrgtT8vOn0.AWUIuxamBuen1hn5U_vh6At1VGQ.Bjw_J7.gq.AAA.0.0.Bjw_J7.AWUA9uCYBYU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673645833629%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673786086768%2C%22v%22%3A1%7D"
 		}
 	]
 }
