@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "15.01.2023 22:39 farm até 6 dias",
+	"lastEventDate": "15.01.2023 22:42 farm até 6 dias",
 	"status": 2,
 	"id": "100089359929065",
 	"name": "lavimoraes",
-	"amountFriends": "63",
+	"amountFriends": "84",
 	"screenname": "Lavinia Moraes",
 	"birthdate": "1987 July 16",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705233834.210024,
+			"expirationDate": 1705358407.405684,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,20 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674302725,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705233834.210076,
+			"expirationDate": 1705358407.405721,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3AXS99FmCIaIbc0Q%3A2%3A1673231082%3A-1%3A12910%3A%3AAcUR-4jLdJyF-xN2acz3pPLHGfMcam8nmYOkDFHflA"
+			"value": "43%3AXS99FmCIaIbc0Q%3A2%3A1673231082%3A-1%3A12910%3A%3AAcUPG0ZCJrTNPSEgs3IgODZqMwAuUYZA-Of1xqJSPQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681473835.932146,
+			"expirationDate": 1681598473.951689,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UpAiBnKnFHdYscXg.AWXRJPmQ_J7GmRfM7LjqEtAf6PQ.Bjwpop.Kw.AAA.0.0.Bjwpos.AWWNgHUH7bg"
+			"value": "05Z7NgkugFtvGTKns.AWXTtUYiOxFrAPipW8NwC6nD3k0.BjxIDH.Kw.AAA.0.0.BjxIEJ.AWXiyOwN8sQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673697929441%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673822507723%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674427329,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		}
 	]
 }
