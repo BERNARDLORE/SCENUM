@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.01.2023 16:16 FARM 2 A 6 DIAS",
+	"lastEventDate": "16.01.2023 16:19 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100089036966725",
 	"name": "elzaadrumons",
-	"amountFriends": "26",
+	"amountFriends": "27",
 	"screenname": "Sueli Elza Drumond",
 	"birthdate": "1987 September 29",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705341305.787242,
+			"expirationDate": 1705421828.598185,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674410256,
+			"expirationDate": 1674490722,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705341305.787272,
+			"expirationDate": 1705421828.598228,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3A2gdl657Zx-yhZw%3A2%3A1673491285%3A-1%3A-1%3A%3AAcVJkwtJ90rhXhIm5-jB-USEYSxofURJNAlfvhD29w"
+			"value": "29%3A2gdl657Zx-yhZw%3A2%3A1673491285%3A-1%3A-1%3A%3AAcW77Wppp28zYrURJnuZHsMi16Da_mcBqmHiwTlShA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681581303.787285,
+			"expirationDate": 1681661836.106573,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oXSDsISqTKLZuJm2.AWVXLGtTSxATQGAswObfuc4YsSw.BjxD36.4D.AAA.0.0.BjxD36.AWWOZie37IE"
+			"value": "0wUMjImZVsioMAVaA.AWV5QFVsCHTbAjVAmN5PJ0jr8E0.BjxXiC.4D.AAA.0.0.BjxXiK.AWViGNod1D0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673805413162%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673885926107%2C%22v%22%3A1%7D"
 		}
 	]
 }
