@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.01.2023 18:01 FARM 2 A 6 DIAS",
+	"lastEventDate": "19.01.2023 18:05 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100089291288530",
 	"name": "eduaporto",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705409611.261024,
+			"expirationDate": 1705687347.09431,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674478511,
+			"expirationDate": 1674756299,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705409611.261139,
+			"expirationDate": 1705687347.094353,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3Acfvyb373M07Wjw%3A2%3A1672974211%3A-1%3A13305%3A%3AAcXrWBIoxVRh1bFYnV2XUj9pKX6ELnQWsB7tbE-nUg"
+			"value": "36%3Acfvyb373M07Wjw%3A2%3A1672974211%3A-1%3A13305%3A%3AAcUDI9jyeAZj97CGHds_-y7SkoQs6QN0jTD1xPPWCQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681649628.924234,
+			"expirationDate": 1681927346.094365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OExPpI5e2hAYtbBJ.AWWScbn8jtlWIJq3P8rgIag1aCo.BjxUjJ.Un.AAA.0.0.BjxUjb.AWUnAvLYmDA"
+			"value": "0cYwHI5nDIFz2IHZ3.AWUQbqQ80wURcujWXlYEtny-Erk.BjyYWx.Un.AAA.0.0.BjyYWx.AWWakDe0n4M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673873713582%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674151457214%2C%22v%22%3A1%7D"
 		}
 	]
 }
