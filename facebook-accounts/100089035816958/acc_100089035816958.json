@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.01.2023 22:28 farm até 6 dias",
+	"lastEventDate": "19.01.2023 22:30 farm até 6 dias",
 	"status": 2,
 	"id": "100089035816958",
 	"name": "izadoclara",
-	"amountFriends": "43",
+	"amountFriends": "45",
 	"screenname": "Izadora Clara Monteiro",
 	"birthdate": "1986 March 7",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705405743.978315,
+			"expirationDate": 1705703298.469272,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674474652,
+			"expirationDate": 1674772186,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705405743.978398,
+			"expirationDate": 1705703298.469307,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3ACv9n-UApum9E4A%3A2%3A1672713960%3A-1%3A7496%3A%3AAcWu5W4aZfVM__0EoLjdQD7piquciANIrM_hli0lqQ"
+			"value": "33%3ACv9n-UApum9E4A%3A2%3A1672713960%3A-1%3A5587%3A%3AAcVk6ZQHbWfl5cLBnxKcfHQzQq6z_iMY1xW0TcOWJg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681645742.97842,
+			"expirationDate": 1681943297.46932,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0uvV2ECTN3V6VwXms.AWVQ_OA9lb0GWFi1zjjeSihMVGI.BjxTmu.gh.AAA.0.0.BjxTmu.AWVElkrxslU"
+			"value": "06WPIKF3i7yC9XoaH.AWXokmcIE0XyEtT5MJb7oSrq4Ss.BjycQD.gh.AAA.0.0.BjycQD.AWUqRaWESLM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673869829883%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674167390165%2C%22v%22%3A1%7D"
 		}
 	]
 }
