@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.01.2023 23:09 FARM 2 A 6 DIAS",
+	"lastEventDate": "22.01.2023 23:12 FARM 2 A 6 DIAS",
 	"status": 2,
 	"id": "100089035816958",
 	"name": "izadoclara",
-	"amountFriends": "45",
+	"amountFriends": "52",
 	"screenname": "Izadora Clara Monteiro",
 	"birthdate": "1986 March 7",
 	"country": "",
@@ -77,19 +77,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674772186,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1705703298.469307,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -103,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681943297.46932,
+			"expirationDate": 1682204983.726924,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06WPIKF3i7yC9XoaH.AWXokmcIE0XyEtT5MJb7oSrq4Ss.BjycQD.gh.AAA.0.0.BjycQD.AWUqRaWESLM"
+			"value": "06WPIKF3i7yC9XoaH.AWXGaFzK5oBwoYOMURJmyMEqkM4.BjycQD.gh.AAA.0.0.BjzcI5.AWW87GEMYuA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +111,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674167390165%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674429104307%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675033948,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		}
 	]
 }
