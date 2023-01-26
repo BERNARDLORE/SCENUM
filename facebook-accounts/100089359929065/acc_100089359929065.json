@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 22:54 farm até 6 dias",
+	"lastEventDate": "26.01.2023 22:56 farm até 6 dias",
 	"status": 2,
 	"id": "100089359929065",
 	"name": "lavimoraes",
-	"amountFriends": "107",
+	"amountFriends": "141",
 	"screenname": "Lavinia Moraes",
 	"birthdate": "1987 July 16",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705706233.952968,
+			"expirationDate": 1706309701.693809,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674775145,
+			"expirationDate": 1675378612,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705706233.953007,
+			"expirationDate": 1706309701.693845,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3AXS99FmCIaIbc0Q%3A2%3A1673231082%3A-1%3A4886%3A%3AAcVBdi6T9p9RQ9YcQBOAgP7k2r-w5DKoeKqTj_ofSQ"
+			"value": "43%3AXS99FmCIaIbc0Q%3A2%3A1673231082%3A-1%3A5551%3A%3AAcW_Tgj65WQrhO-1crq3J-06YwEZeydt2Q2QRT5XGA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681946232.953021,
+			"expirationDate": 1682549700.693858,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03a9LxGRX9Iwq1lD1.AWXF0rKG4gbADfaaNGSwhKrbcuc.Bjyc96.Kw.AAA.0.0.Bjyc96.AWWA3NtmW_Y"
+			"value": "0MBep1kIH4fIi1Qvy.AWX11Q51mnXaTiuPXdM7IO1SFNg.Bj0wTF.Kw.AAA.0.0.Bj0wTF.AWV3JRlXNQU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674170321584%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674773789466%2C%22v%22%3A1%7D"
 		}
 	]
 }
